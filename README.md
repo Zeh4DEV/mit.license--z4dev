@@ -42,7 +42,7 @@ You can also encode the data as URL query parameters like so:
 
 
 bash
-curl -X POST "https://z4dev.mit-license.org/?copyright=Zack%20El&url=http%3A%2F%2Felhatimizakaria.link&email=73597675+Zack4DEV%40users.noreply.github.com&format=txt"
+curl -X POST "https://z4dev.mit-license.org/?copyright=Zack%20El&email=73597675+Zack4DEV%40users.noreply.github.com&format=txt"
 
 
 If there are any problems in the automated creation, send me a pull request and it'll go live soon after.
